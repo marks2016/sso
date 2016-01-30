@@ -1,1 +1,1 @@
-# sso
+# Test sso server/client installation/configuration
